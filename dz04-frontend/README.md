@@ -1,4 +1,4 @@
-# dz-04-frontend
+# dz04-frontend
 
 ## Project setup
 ```
